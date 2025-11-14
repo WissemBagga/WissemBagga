@@ -1,11 +1,12 @@
 <h3 align="left">Hi 👋, I'm Wissem Bagga</h3>
 
-<h2 align="left">Telecommunications Engineer | Full-Stack Developer | Passionate About AI and Emerging Technologies</h2>
+<h2 align="left">Telecommunications Engineering Student | Full-Stack Developer | AI & Web Enthusiast</h2>
 
 <p align="left">
-I'm always seeking new ways to improve my skills and contribute to meaningful projects.  
-Whether it's web or mobile development, or integrating AI solutions, I aim to build applications that bring real value to users.<br><br>
-Check out my repositories to explore projects ranging from collaborative platforms to smart tools solving real-world problems.
+I'm a telecommunications and networks engineering student at ENIG with experience in both frontend and backend development.  
+I have a strong grasp of software development principles and have honed my skills in designing, programming, and deploying web applications.  
+I am always exploring innovative solutions, whether in web, mobile, or AI integration, and I aim to create projects that deliver real value to users.<br><br>
+Feel free to explore my repositories to see my work, ranging from intelligent assistants to educational platforms.
 </p>
 
 <div align="left">
@@ -22,21 +23,38 @@ Check out my repositories to explore projects ranging from collaborative platfor
 
 <img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-</div>
+### 🛠️ Skills & Tools
 
-### 🔝 Top Projects
-- [**ENIGDOCS**](https://enigdocs.onrender.com/): Platform for ENIG students | Python, HTML, CSS, JS  
-- [**Blogify**](https://github.com/Wissem1111/Blogify): Collaborative blogging | React.js, Node.js, MongoDB  
-- [**Tp_Atelier2**](https://github.com/Wissem1111/Tp_Atelier2): Student management with Firebase | Android, Java  
+**Programming Languages:** Java, Python, JavaScript, HTML, CSS, SQL (MySQL, PostgreSQL)  
+**Frameworks & Libraries:** Spring Boot, Java EE, Bootstrap, Numpy, Pandas, Tkinter, FastAPI  
+**Tools & Technologies:** Eclipse, IntelliJ IDEA, VS Code, Postman, Android Studio, Git  
+**Operating Systems:** Linux
+
+### 🔝 Main Projects
+
+- **Intelligent Voice Assistant for Insurance Claims**  
+  Voice-based claims submission, tracking, and automatic PDF reports.  
+  *Technologies:* React.js, Spring Boot, FastAPI (Python), PostgreSQL, Postman, Git  
+
+- **Hotel Management Application**  
+  Web app for hotel and room management (add, update, delete).  
+  *Technologies:* Java EE, HTML, Bootstrap  
+
+- **Drone Detection with CNN**  
+  Developed and optimized a CNN model for drone detection, improving accuracy.  
+  *Technologies:* Python, NumPy, Matplotlib, Pandas, PIL, Ultralytics, Gradio  
+
+- **EnigDocs**  
+  Educational website for ENIG students providing exams, exercises, and courses.  
+  *Technologies:* HTML, CSS, JavaScript, Python  
+
+### 📜 Certifications
+
+- Microsoft Certified: Azure AI Fundamentals  
+- Microsoft Certified: Azure Fundamentals  
+- PCAP: Programming Essentials in Python  
+- Scrum Fundamentals Certified (CASF)  
+- CCNA 1 & CCNA 2  
 
 ### 📊 GitHub Stats
 <p align="center">
