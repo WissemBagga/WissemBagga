@@ -40,8 +40,8 @@ Explorez mes repositories pour découvrir mes projets, allant de plateformes col
 
 ### 📊 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wissem1111&layout=compact&langs_count=5&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WissemBagga&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WissemBagga&layout=compact&langs_count=5&theme=radical" height="150" />
 </p>
 
 ### 👀 Visiteurs
