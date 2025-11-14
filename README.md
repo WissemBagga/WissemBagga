@@ -46,5 +46,5 @@ Check out my repositories to explore projects ranging from collaborative platfor
 
 ### 👀 Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/WissemBagga/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WissemBagga.WissemBagga" alt="visitors"/>
 </p>
