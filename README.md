@@ -1,47 +1,50 @@
-# 👋 Bonjour, je suis Wissem Bagga
+<h3 align="left">Hi 👋, I'm Wissem Bagga</h3>
 
-> Développeur passionné | Ingénieur en télécommunications | Créateur de solutions web et mobiles  
+<h2 align="left">Ingénieur en Télécommunications | Développeur Full-Stack | Passionné par l'IA et les nouvelles technologies</h2>
 
-![Header](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fit=crop&w=1200&q=80)
+<p align="left">
+Je suis toujours à la recherche de nouvelles façons d'améliorer mes compétences et de contribuer à des projets concrets et innovants.  
+Que ce soit pour le développement web, mobile ou l'intégration de solutions IA, je m'engage à créer des applications qui apportent une vraie valeur aux utilisateurs.<br><br>
+Explorez mes repositories pour découvrir mes projets, allant de plateformes collaboratives à des outils intelligents pour résoudre des problèmes réels.
+</p>
 
----
+<div align="left">
+  <a href="mailto:Wissem.Bagga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/wissem-bagga/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wissem-s-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&color=black&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
+</div>
 
-## 🚀 À propos de moi
-Je suis un développeur full-stack passionné par les technologies modernes, l'IA et le développement web.  
-J'aime créer des applications qui simplifient la vie des utilisateurs et qui apportent de la valeur réelle.  
+<img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-- 💻 Langages : **Java, Python, JavaScript, HTML, CSS**
-- 🛠 Frameworks & Bibliothèques : **Spring, React.js, Node.js, Express.js**
-- 🌐 Technologies : **REST APIs, Firebase, MongoDB, MySQL**
-- 🤖 Passion pour **l'IA, LLM et applications intelligentes**
-- 📚 Toujours en apprentissage et exploration de nouvelles technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+</div>
 
----
+### 🔝 Projets principaux
+- [**ENIGDOCS**](https://enigdocs.onrender.com/): Plateforme pour étudiants ENIG | Python, HTML, CSS, JS  
+- [**Blogify**](https://github.com/Wissem1111/Blogify): Blogging collaboratif | React.js, Node.js, MongoDB  
+- [**Tp_Atelier2**](https://github.com/Wissem1111/Tp_Atelier2): Gestion des étudiants avec Firebase | Android, Java  
 
-## 📂 Projets récents
+### 📊 Statistiques GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wissem1111&layout=compact&langs_count=5&theme=radical" height="150" />
+</p>
 
-| Projet | Description | Tech Stack |
-|--------|-------------|------------|
-| **ENIGDOCS** | Plateforme pour les étudiants ENIG pour télécharger cours et examens | Python, HTML, CSS, JS |
-| **Blogify** | Blogging collaboratif avec partage de fichiers et commentaires | React.js, Node.js, MongoDB |
-| **Tp_Atelier2** | Gestion des étudiants avec Firebase | Android Studio, Java, Firebase |
-
-[Voir tous mes projets sur GitHub](https://github.com/WissemBagga)
-
----
-
-## 📈 Statistiques GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wissem1111&show_icons=true&theme=radical)
-
----
-
-## 🔗 Me contacter
-
-- 📧 Email : [Wissem.Bagga@gmail.com](mailto:Wissem.Bagga@gmail.com)
-- 🔗 LinkedIn : [linkedin.com/in/wissem-bagga](https://www.linkedin.com/in/wissem-bagga)
-- 💻 Portfolio : [wissem-s-portfolio.onrender.com](https://wissem-s-portfolio.onrender.com/)
-
----
-
-> "Coder, c'est comme créer un univers à partir de rien."
+### 👀 Visiteurs
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Wissem1111/count.svg" />
+</p>
