@@ -1,26 +1,26 @@
 <h3 align="left">Hi 👋, I'm Wissem Bagga</h3>
 
-<h2 align="left">Ingénieur en Télécommunications | Développeur Full-Stack | Passionné par l'IA et les nouvelles technologies</h2>
+<h2 align="left">Telecommunications Engineer | Full-Stack Developer | Passionate About AI and Emerging Technologies</h2>
 
 <p align="left">
-Je suis toujours à la recherche de nouvelles façons d'améliorer mes compétences et de contribuer à des projets concrets et innovants.  
-Que ce soit pour le développement web, mobile ou l'intégration de solutions IA, je m'engage à créer des applications qui apportent une vraie valeur aux utilisateurs.<br><br>
-Explorez mes repositories pour découvrir mes projets, allant de plateformes collaboratives à des outils intelligents pour résoudre des problèmes réels.
+I'm always seeking new ways to improve my skills and contribute to meaningful projects.  
+Whether it's web or mobile development, or integrating AI solutions, I aim to build applications that bring real value to users.<br><br>
+Check out my repositories to explore projects ranging from collaborative platforms to smart tools solving real-world problems.
 </p>
 
 <div align="left">
   <a href="mailto:Wissem.Bagga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/wissem-bagga/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://wissem-s-portfolio.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&color=black&style=for-the-badge" height="35" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&color=black&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
 
-<img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
@@ -33,18 +33,18 @@ Explorez mes repositories pour découvrir mes projets, allant de plateformes col
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
 </div>
 
-### 🔝 Projets principaux
-- [**ENIGDOCS**](https://enigdocs.onrender.com/): Plateforme pour étudiants ENIG | Python, HTML, CSS, JS  
-- [**Blogify**](https://github.com/Wissem1111/Blogify): Blogging collaboratif | React.js, Node.js, MongoDB  
-- [**Tp_Atelier2**](https://github.com/Wissem1111/Tp_Atelier2): Gestion des étudiants avec Firebase | Android, Java  
+### 🔝 Top Projects
+- [**ENIGDOCS**](https://enigdocs.onrender.com/): Platform for ENIG students | Python, HTML, CSS, JS  
+- [**Blogify**](https://github.com/Wissem1111/Blogify): Collaborative blogging | React.js, Node.js, MongoDB  
+- [**Tp_Atelier2**](https://github.com/Wissem1111/Tp_Atelier2): Student management with Firebase | Android, Java  
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WissemBagga&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WissemBagga&layout=compact&langs_count=5&theme=radical" height="150" />
 </p>
 
-### 👀 Visiteurs
+### 👀 Visitors
 <p align="center">
   <img src="https://profile-counter.glitch.me/WissemBagga/count.svg" />
 </p>
