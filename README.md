@@ -27,22 +27,46 @@ Explore my repositories to see my projects, from intelligent assistants to educa
 
 ### 🛠️ Skills & Tools
 
-**Programming Languages:** Java, Python, JavaScript, HTML, CSS, SQL (MySQL, PostgreSQL)  
-**Frameworks & Libraries:** Spring Boot, Java EE, Bootstrap, Numpy, Pandas, Tkinter, FastAPI  
-**Tools & Technologies:** Eclipse, IntelliJ IDEA, VS Code, Postman, Android Studio, Git  
-**Operating Systems:** Linux
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" /> 
+  <br><br>
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javaee/javaee-original.svg" height="30" alt="javaee logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tkinter/tkinter-original.svg" height="30" alt="tkinter logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" /> 
+  <br><br>
+  <!-- Tools & IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" /> 
+</div>
 
 ### 🔝 Main Projects
 
-- [**Intelligent Voice Assistant for Insurance Claims**](https://github.com/Wissem1111/Intelligent-Voice-Assistant)  
+- [**Intelligent Voice Assistant for Insurance Claims**](https://github.com/WissemBagga/ClaimSense)  
   Voice-based claims submission, tracking, and automatic PDF reports.  
   *Technologies:* React.js, Spring Boot, FastAPI (Python), PostgreSQL, Postman, Git  
 
-- [**Hotel Management Application**](https://github.com/Wissem1111/Hotel-Management-App)  
+- [**Hotel Management Application**](https://github.com/WissemBagga/Gestion-Des-Hotels)  
   Web app for hotel and room management (add, update, delete).  
   *Technologies:* Java EE, HTML, Bootstrap  
 
-- [**Drone Detection with CNN**](https://github.com/Wissem1111/Drone-Detection-CNN)  
+- [**Drone Detection with CNN**]  
   Developed and optimized a CNN model for drone detection, improving accuracy.  
   *Technologies:* Python, NumPy, Matplotlib, Pandas, PIL, Ultralytics, Gradio  
 
