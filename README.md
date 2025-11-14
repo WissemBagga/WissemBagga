@@ -1,12 +1,14 @@
 <h3 align="left">Hi 👋, I'm Wissem Bagga</h3>
 
-<h2 align="left">Telecommunications Engineering Student | Full-Stack Developer | AI & Web Enthusiast</h2>
+<h2 align="left">
+Software Engineering Enthusiast | Full-Stack Developer | Final-Year Telecommunications Engineering Student | AI & Web Enthusiast
+</h2>
 
 <p align="left">
-I'm a telecommunications and networks engineering student at ENIG with experience in both frontend and backend development.  
-I have a strong grasp of software development principles and have honed my skills in designing, programming, and deploying web applications.  
-I am always exploring innovative solutions, whether in web, mobile, or AI integration, and I aim to create projects that deliver real value to users.<br><br>
-Feel free to explore my repositories to see my work, ranging from intelligent assistants to educational platforms.
+I'm a final-year telecommunications engineering student at ENIG with a passion for software engineering and full-stack development.  
+I have experience in both frontend and backend development, with a strong understanding of software principles and the ability to design, program, and deploy high-quality web applications.  
+I enjoy building innovative projects that combine AI, web technologies, and practical solutions to real-world problems.<br><br>
+Explore my repositories to see my projects, from intelligent assistants to educational platforms.
 </p>
 
 <div align="left">
@@ -16,7 +18,7 @@ Feel free to explore my repositories to see my work, ranging from intelligent as
   <a href="https://www.linkedin.com/in/wissem-bagga/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://wissem-s-portfolio.onrender.com/" target="_blank">
+  <a href="https://wissembagga.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&color=black&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
@@ -32,19 +34,19 @@ Feel free to explore my repositories to see my work, ranging from intelligent as
 
 ### 🔝 Main Projects
 
-- **Intelligent Voice Assistant for Insurance Claims**  
+- [**Intelligent Voice Assistant for Insurance Claims**](https://github.com/Wissem1111/Intelligent-Voice-Assistant)  
   Voice-based claims submission, tracking, and automatic PDF reports.  
   *Technologies:* React.js, Spring Boot, FastAPI (Python), PostgreSQL, Postman, Git  
 
-- **Hotel Management Application**  
+- [**Hotel Management Application**](https://github.com/Wissem1111/Hotel-Management-App)  
   Web app for hotel and room management (add, update, delete).  
   *Technologies:* Java EE, HTML, Bootstrap  
 
-- **Drone Detection with CNN**  
+- [**Drone Detection with CNN**](https://github.com/Wissem1111/Drone-Detection-CNN)  
   Developed and optimized a CNN model for drone detection, improving accuracy.  
   *Technologies:* Python, NumPy, Matplotlib, Pandas, PIL, Ultralytics, Gradio  
 
-- **EnigDocs**  
+- [**EnigDocs**](https://enigdocs.onrender.com/)  
   Educational website for ENIG students providing exams, exercises, and courses.  
   *Technologies:* HTML, CSS, JavaScript, Python  
 
