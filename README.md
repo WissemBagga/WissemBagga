@@ -64,7 +64,7 @@ Explore my repositories to see my projects, from intelligent assistants to educa
   Web app for hotel and room management (add, update, delete).  
   *Technologies:* Java EE, HTML, Bootstrap  
 
-- [**Drone Detection with CNN**]  
+- **Drone Detection with CNN**  
   Developed and optimized a CNN model for drone detection, improving accuracy.  
   *Technologies:* Python, NumPy, Matplotlib, Pandas, PIL, Ultralytics, Gradio  
 
