@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Wissem Bagga</h3>
+<h3 align="left">Hi, I'm Wissem Bagga</h3>
 
 <h2 align="left">
 Software Engineering Enthusiast | Full-Stack Developer | Final-Year Telecommunications Engineering Student | AI & Web Enthusiast
